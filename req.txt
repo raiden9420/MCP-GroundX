@@ -1,0 +1,6 @@
+dotenv 
+groundx
+mcp
+flask
+flask_cors
+google-generativeai
